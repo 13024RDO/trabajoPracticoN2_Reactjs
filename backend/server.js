@@ -3,7 +3,7 @@ const cors = require('cors');
 const app = express();
 const PORT = 3000;
 
-app.use(cors()); // Habilita CORS
+app.use(cors()); 
 
 const usuariosValidos = ['maxi', 'tati', 'mauri', 'anto', 'leo', 'santi'];
 
