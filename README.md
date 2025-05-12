@@ -17,7 +17,7 @@ Sigue estos pasos para levantar el proyecto en modo desarrollo:
 
 ```bash
 git clone https://github.com/13024RDO/trabajoPracticoN2_Reactjs.git
-cd TP2
+cd trabajoPracticoN2_Reactjs
 ```
 
 ### 2. Inicia el backend
